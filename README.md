@@ -1,7 +1,6 @@
 # RTS-Glätter: die Schätzung im Nachhinein verbessern – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-rts-smoother-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-rts-smoother-demo.streamlit.app/)**
 
 Zweites Stück der Linie **Zustandsschätzung und Filter** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Es setzt die Fahrt des Stücks [Kalman-Filter](https://github.com/sebastian-hanisch/kalman-filter-demo) fort (Lieferfahrzeug, GPS, Radsensor, Tunnel) und behebt eine benennbare
