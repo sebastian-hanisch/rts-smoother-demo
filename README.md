@@ -35,7 +35,7 @@ Alle Zahlen: Standardeinstellung (GPS 10 m, Fahrunruhe 0,3 m/s², Tunnel 20 s, R
 | Wie viel genauer wird die Position? | Der Fehler sinkt um **29 %** bei 3 m GPS-Rauschen, **31 %** bei 10 m und **46 %** bei 30 m (Median der Verbesserung je Fahrt). |
 | Wie viel Verzögerung braucht es? | Ein Lag von 5 s holt nur **21 %** des Gewinns, 20 s **71 %**, 40 s **85 %**. Kurze Verzögerungen bringen wenig. |
 | Tunnel von 40 s ohne GPS und Radsensor | Filter **28 m** daneben (RMSE), Glätter **7 m**: er kennt den Ausgang des Tunnels. |
-| Dasselbe mit Radsensor | **1,27 m** gegen **1,04 m**: die Geschwindigkeitsmessung trägt die Position ohnehin. |
+| Dasselbe mit Radsensor | **1,27 m** gegen **1,04 m**: die Geschwindigkeitsmessung stützt die Position ohnehin. |
 | Einzelne Standardfahrt (Seed 35) | Filter 1,07 m, Glätter 0,85 m, 5-s-Lag-Glätter 0,79 m auf dem Fenster ohne die letzten 5 s. Eine einzelne Fahrt, keine Aussage über die Streuung. |
 
 ## Ehrliche Grenzen
